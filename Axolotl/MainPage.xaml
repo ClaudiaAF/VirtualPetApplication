@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Axolotl.MainPage">
+
+    <StackLayout>
+       (* <StackLayout VerticalOptions="CenterAndExpand">
+            <Button Text="Axolotl"
+                    HorizontalOptions="Center"
+                    VerticalOptions="CenterAndExpand"
+                    TextColor="DarkOliveGreen"
+                    FontSize="18"
+                    FontAttributes="Italic"
+                    BackgroundColor="Transparent"
+                    Clicked="EditNameTapped"/>
+            <Label Text="Level 1"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"
+                   TextColor="Red"
+                   FontAttributes="Bold"
+                   FontSize="30"></Label>
+            <Label Text="1000XP"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"></Label>
+        </StackLayout> *)
+    </StackLayout>
+
+</ContentPage>
